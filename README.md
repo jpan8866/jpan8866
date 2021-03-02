@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**dataiscool/dataiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hello, welcome to my hub 👋
+### Hello! 👋
 
 My name is John and I'm a mechanical engineering student who loves programming and data analytics. I am currently finishing my last semester at McGill University and absorbing everything I can on machine learning prediction models.
 
