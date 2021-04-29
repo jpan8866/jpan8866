@@ -1,11 +1,10 @@
 ### Hello! 👋
 
-My name is John and I'm a mechanical engineering student who loves programming and data analytics. I am currently finishing my last semester at McGill University and absorbing everything I can on machine learning prediction models.
+My name is John and I'm a mechanical engineering student who loves programming and data analytics. I just completed my Bachelors in Mechanical Engineering with a minors in Computer Science.
 
 🌱 I’m currently learning:
 
-Fun Artificial Intelligence algorithms such as hill climbing to solve TSPs.
-Machine Learning prediction models, such as logistic regression, naive Bayes and multilayer perceptron.
+Deep learning models
 
 🔭 Current personal project:
 
