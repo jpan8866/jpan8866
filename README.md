@@ -4,8 +4,7 @@ My name is John and I'm a mechanical engineer who loves programming, software de
 
 🌱 I’m currently learning:
 
--Cloud computing
--full stack web developmenent (MERN stack)
+Cloud computing & full stack web developmenent (MERN stack)
 
 🔭 Current personal project:
 
