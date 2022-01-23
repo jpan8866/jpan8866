@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is John and I'm a mechanical engineer who loves programming, software development and machine learning. I've recently completed my Bachelors in Mechanical Engineering with a minors in Computer Science.
+My name is John and I'm a mechanical engineer who loves programming, software development and machine learning. I've recently completed my Bachelors in Mechanical Engineering with a minor in Computer Science.
 
 🌱 I’m currently learning:
 
