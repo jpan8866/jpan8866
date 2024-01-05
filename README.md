@@ -4,10 +4,10 @@ My name is John and I'm a mechanical engineer who loves programming, software de
 
 🌱 I’m currently learning:
 
-Building a mini Tesla Model S to learn topics of IoT
+Embedded programming with C++
 
 🔭 Current personal project:
 
-Building a social media app using the MERN stack.
+Building a mini Tesla Model S to learn topics of IoT
 
 💬 Reach me by email or LinkedIn! john.pan@mail.mcgill.ca | www.linkedin.com/in/johnderekpan
