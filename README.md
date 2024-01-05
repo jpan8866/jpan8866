@@ -1,10 +1,10 @@
 ### Hello! 👋
 
-My name is John and I'm a mechanical engineer who loves programming, software development and machine learning. I've recently completed my Bachelors in Mechanical Engineering with a minor in Computer Science.
+My name is John and I'm a mechanical engineer who loves programming, software development and machine learning. I have a background in Mechanical Engineering with a minor in Computer Science and am currently completing a Masters at the University of Illinois Urbana-Champaign
 
 🌱 I’m currently learning:
 
-Cloud computing & full stack web developmenent (MERN stack)
+Building a mini Tesla Model S to learn topics of IoT
 
 🔭 Current personal project:
 
