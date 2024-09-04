@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is John and I'm a mechanical engineer who loves programming, software development and machine learning. I have a background in Mechanical Engineering with a minor in Computer Science and am currently completing a Masters at the University of Illinois Urbana-Champaign
+My name is John and I'm a mechanical engineer who loves programming, software development and machine learning. I have a background in Mechanical Engineering with a minor in Computer Science and am currently completing a Masters at Georgia Tech.
 
 🌱 I’m currently learning:
 
