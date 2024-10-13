@@ -2,11 +2,11 @@
 
 My name is John and I'm an engineer who loves programming, software development and machine learning. I have a background in Mechanical Engineering with a minor in Computer Science and am currently completing a Masters in CS at Georgia Tech.
 
-Incoming SWE at Shopify
+💼 Incoming SWE at Shopify
 
-Previous work experience:
-- Bell Canada (Full-stack software engineer)
-- Airbus Canada (Front-end developer)
+  Previous work experience:
+  - Bell Canada (Full-stack software engineer)
+  - Airbus Canada (Front-end developer)
 
 🌱 I’m currently learning:
 
