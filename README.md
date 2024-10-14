@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-My name is John and I'm an engineer who loves programming, software development and machine learning. I have a background in Mechanical Engineering with a minor in Computer Science and am currently completing a Masters in CS at Georgia Tech.
+My name is John and I'm an engineer who loves programming, software development and machine learning. I have a background in Mechanical Engineering with a minor in Computer Science and am in the process of completing a Masters in CS at Georgia Tech.
+
+I am currently building PearAI, an open-source AI-powered editor. Check it out at https://trypear.ai/
 
 💼 Incoming SWE at Shopify
 
