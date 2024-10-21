@@ -4,8 +4,6 @@ My name is John and I'm an engineer who loves programming, software development 
 
 I am currently building PearAI, an open-source AI-powered editor. Check it out at https://trypear.ai/
 
-💼 Incoming SWE at Shopify
-
   Previous work experience:
   - Bell Canada (Full-stack software engineer)
   - Airbus Canada (Front-end developer)
